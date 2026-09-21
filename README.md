@@ -122,6 +122,7 @@ If something on the docket helped you, fuel the next build:
 
 <div align="center">
 
+[![GitHub Sponsors](https://img.shields.io/badge/github_sponsors-Judge--M-000000?style=for-the-badge&labelColor=000000&color=ffc700&logo=githubsponsors&logoColor=ffc700)](https://github.com/sponsors/Judge-M)
 [![Buy Me a Coffee](https://img.shields.io/badge/buy_me_a_coffee-judge.m-000000?style=for-the-badge&labelColor=000000&color=ffc700&logo=buymeacoffee&logoColor=ffc700)](https://buymeacoffee.com/judge.m)
 
 </div>
