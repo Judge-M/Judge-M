@@ -37,12 +37,15 @@ memory they can trust · tools they must earn · compute they can schedule
 
 ### `> whoami`
 
-One year ago I opened my first AI chat. Since then: **16 repos, ~1,700 commits**,
-and a full stack of agent infrastructure — designed, shipped, and documented in the open.
+## Hey, I’m Matt Judge 👋
 
-I work **local-first**: humans hold the keys, agents earn scoped authority, and every
-decision lands in an append-only log that can be replayed. Python, Rust, TypeScript —
-from a silicon homelab to cloud orchestration.
+I build open-source infrastructure for AI agents, with a focus on trusted memory, scoped permissions, and systems people can inspect and control.
+
+My projects explore how agents remember, use tools, coordinate work, and run on local compute. That includes **BrainConnect**, **AgentConnect**, and **Decima**, built around a belief that useful autonomy needs clear boundaries and accountable decisions.
+
+I work across **Python, Rust, and TypeScript**, with interests spanning local AI, cybersecurity, and hands-on learning. Alongside agent infrastructure, I build CTF challenges, incident-response exercises, and tools that help people learn to work with AI.
+
+I learn by building, testing, and sharing what I discover. This GitHub is where that work takes shape.
 
 ---
 
